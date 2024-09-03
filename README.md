@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Integrated Masters Computer Science student at the University of Warwick. I'm currently working on research with Adversial attack with/on Diffusion models.<br>I'm am brainstorming ideas for a Rental and property investment management application.<br>I'm currently learning Machine learning, Data Science, Computational Biology, Robotics.<br>I have experience as Robotics and Computer Vision Software Engineer.
+I'm an Integrated Masters Computer Science student at the University of Warwick. <br>I'm currently working on research with Adversial attack with/on Diffusion models.<br>I'm am brainstorming ideas for a Rental and property investment management application.<br>I'm currently learning Machine learning, Data Science, Computational Biology, Robotics.<br>I have experience as Robotics and Computer Vision Software Engineer.
 
 
 ## 🌐 Socials:
